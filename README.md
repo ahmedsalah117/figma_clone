@@ -64,7 +64,7 @@ If you have any questions, suggestions, or feedback, feel free to contact me.
 You can reach out to me through the following channels:
 
 - **Email**: [engineerahmedbahnasy@gmail.com](mailto:engineerahmedbahnasy@gmail.com)
-- **LinkedIn**: [Eng Ahmed Bahnasy](https://www.linkedin.com/in/eng-ahmed-bahnasy/)
+- **LinkedIn**: [Ahmed Bahnasy](https://www.linkedin.com/in/eng-ahmed-bahnasy/)
 - **Phone / Whatsapp**: +20 1024768040
 
 Feel free to connect with me on LinkedIn for professional inquiries and networking opportunities.
