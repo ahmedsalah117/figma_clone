@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Figma clone app
 
-## Getting Started
+This repository contains the source code for a minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Features
+
+- **Cursor chat:** It allows 2 or more users to chat with each other while working on the same design.
+
+- **Comments:** It allows users to add comments on the design,so that other team members can see it.
+
+* **Reactions:** It allows users to add reactions to express their feelings about the design.
+
+- **Drawing designs:** It allows users to draw different shapes like rectangles, triangles, circles, images , lines and free drawing.
+
+# Installation
+
+To install and run this figma clone app locally, please follow these steps:
+
+1. Clone the repository:
+
+```bash copy
+git clone https://github.com/ahmedsalah117/figma_clone.git
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Change to the project directory:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash copy
+cd figma_clone
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
 
-## Learn More
+3. Install the dependencies:
 
-To learn more about Next.js, take a look at the following resources:
+```bash copy
+npm install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+4. Start the development server:
 
-## Deploy on Vercel
+```bash Copy
+npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Access the application in your web browser at http://localhost:3000.
+
+# Acknowledgements
+
+This application is built using various open-source libraries and frameworks. The following dependencies have been utilized in this project:
+
+- NextJS
+- Liveblocks
+- Fabric JS
+- Tailwind CSS
+- JavaScript Mastery Youtube Channel.
+
+# Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me.
+
+You can reach out to me through the following channels:
+
+- **Email**: [engineerahmedbahnasy@gmail.com](mailto:engineerahmedbahnasy@gmail.com)
+- **LinkedIn**: [Eng Ahmed Bahnasy](https://www.linkedin.com/in/eng-ahmed-bahnasy/)
+- **Phone / Whatsapp**: +20 1024768040
+
+Feel free to connect with me on LinkedIn for professional inquiries and networking opportunities.
+
+```
+Happy Hacking!
+```
